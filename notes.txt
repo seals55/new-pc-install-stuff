@@ -2,4 +2,15 @@ NVidia Drivers
 Roboform
 GitHub desktop
 chocolatey
+vscode
+logitech g-hub
+amd raid drivers https://www.amd.com/en/support/chipsets/amd-socket-am4/x570
+
+
+windows store:
+spotify
+telegram
+ubuntu
+
+https://us.shop.battle.net/en-us
 
