@@ -23,7 +23,8 @@ choco upgrade -y `
     cinebench `
     msiafterburner `
     hwinfo `
-    sysinternals
+    sysinternals `
+    telegram
 
 # failing crc
 # choco install -y origin
