@@ -1,6 +1,6 @@
 choco upgrade -y notepadplusplus googlechrome steam-client goggalaxy discord twitch sharex
 
-choco upgrade -y choco-cleaner winrar
+choco upgrade -y choco-cleaner winrar mpc-hc directoryopus
 
 @rem failing crc
 @rem choco install -y origin 
@@ -8,7 +8,7 @@ choco upgrade -y choco-cleaner winrar
 
 @rem choco install -y vscode
 
-choco install -y vmwareworkstation
+@rem choco install -y vmwareworkstation
 
 
 
