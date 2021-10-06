@@ -22,7 +22,8 @@ choco upgrade -y `
     python `
     cinebench `
     msiafterburner `
-    hwinfo
+    hwinfo `
+    sysinternals
 
 # failing crc
 # choco install -y origin
