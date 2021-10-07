@@ -23,7 +23,9 @@ choco upgrade -y `
     cinebench `
     msiafterburner `
     hwinfo `
-    epicgameslauncher
+    epicgameslauncher `
+    sysinternals `
+    telegram
 
 # failing crc
 # choco install -y origin
