@@ -25,7 +25,13 @@ choco upgrade -y `
     hwinfo `
     epicgameslauncher `
     sysinternals `
-    telegram
+    telegram `
+    googledrive `
+    caffeine `
+    icue `
+    powertoys `
+    firefox
+
 
 # failing crc
 # choco install -y origin
