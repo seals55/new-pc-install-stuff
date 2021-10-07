@@ -4,13 +4,12 @@ GitHub desktop
 chocolatey
 vscode
 logitech g-hub
-amd raid drivers https://www.amd.com/en/support/chipsets/amd-socket-am4/x570
+https://www.blizzard.com/en-us/apps/battle.net/desktop
+https://bethesda.net/en/game/bethesda-launcher
 
 
 windows store:
 spotify
-telegram
-ubuntu
 
-https://us.shop.battle.net/en-us
+
 
