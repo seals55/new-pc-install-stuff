@@ -21,19 +21,19 @@ choco upgrade -y `
     powershell-core `
     python `
     cinebench `
-    msiafterburner `
     hwinfo `
     epicgameslauncher `
     sysinternals `
     telegram `
     caffeine `
     powertoys `
-    firefox
+    firefox `
+    origin
 
 
 # failing crc
-# choco install -y origin
 # choco install -y bethesdanet
+# choco install -y msiafterburner
 
 # Not sure whats up with this one, says it works but no icon
 # choco install -y vscode
