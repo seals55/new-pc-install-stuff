@@ -28,8 +28,7 @@ choco upgrade -y `
     telegram `
     caffeine `
     powertoys `
-    firefox `
-    google-backup-and-sync
+    firefox
 
 
 # failing crc
