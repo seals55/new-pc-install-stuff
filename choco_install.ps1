@@ -28,7 +28,6 @@ choco upgrade -y `
     telegram `
     googledrive `
     caffeine `
-    icue `
     powertoys `
     firefox
 
