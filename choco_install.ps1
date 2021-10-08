@@ -30,7 +30,8 @@ choco upgrade -y `
     caffeine `
     icue `
     powertoys `
-    firefox
+    firefox `
+    icue
 
 
 # failing crc
