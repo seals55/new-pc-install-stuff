@@ -26,10 +26,10 @@ choco upgrade -y `
     epicgameslauncher `
     sysinternals `
     telegram `
-    googledrive `
     caffeine `
     powertoys `
-    firefox
+    firefox `
+    google-backup-and-sync
 
 
 # failing crc
