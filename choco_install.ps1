@@ -28,7 +28,9 @@ choco upgrade -y `
     caffeine `
     powertoys `
     firefox `
-    origin
+    origin `
+    icue `
+    beyondcompare
 
 
 # failing crc
