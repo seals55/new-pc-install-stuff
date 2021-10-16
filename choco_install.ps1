@@ -30,7 +30,8 @@ choco upgrade -y `
     firefox `
     origin `
     icue `
-    beyondcompare
+    beyondcompare `
+    advanced-renamer
 
 
 # failing crc
@@ -42,6 +43,3 @@ choco upgrade -y `
 
 # Initial install is fine, but let app upgrade itself.
 # choco install -y vmwareworkstation
-
-
-
