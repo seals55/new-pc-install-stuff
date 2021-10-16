@@ -31,7 +31,8 @@ choco upgrade -y `
     origin `
     icue `
     beyondcompare `
-    advanced-renamer
+    advanced-renamer `
+    vlc
 
 
 # failing crc
