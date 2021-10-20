@@ -21,28 +21,26 @@ choco upgrade -y `
     powershell-core `
     python `
     cinebench `
-    msiafterburner `
     hwinfo `
     epicgameslauncher `
     sysinternals `
     telegram `
-    googledrive `
     caffeine `
-    icue `
     powertoys `
     firefox `
-    icue
+    origin `
+    icue `
+    beyondcompare `
+    advanced-renamer `
+    vlc
 
 
 # failing crc
-# choco install -y origin
 # choco install -y bethesdanet
+# choco install -y msiafterburner
 
 # Not sure whats up with this one, says it works but no icon
 # choco install -y vscode
 
 # Initial install is fine, but let app upgrade itself.
 # choco install -y vmwareworkstation
-
-
-

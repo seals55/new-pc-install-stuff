@@ -6,7 +6,7 @@ vscode
 logitech g-hub
 https://www.blizzard.com/en-us/apps/battle.net/desktop
 https://bethesda.net/en/game/bethesda-launcher
-
+google drive
 
 windows store:
 spotify
