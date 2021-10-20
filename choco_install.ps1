@@ -32,7 +32,8 @@ choco upgrade -y `
     icue `
     beyondcompare `
     advanced-renamer `
-    vlc
+    vlc `
+    aida64-extreme
 
 
 # failing crc
