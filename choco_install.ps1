@@ -34,7 +34,8 @@ choco upgrade -y `
     advanced-renamer `
     vlc `
     aida64-extreme `
-    streamdeck
+    streamdeck `
+    4k-video-downloader
 
 
 # failing crc
