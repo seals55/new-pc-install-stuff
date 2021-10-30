@@ -33,7 +33,8 @@ choco upgrade -y `
     beyondcompare `
     advanced-renamer `
     vlc `
-    aida64-extreme
+    aida64-extreme `
+    streamdeck
 
 
 # failing crc
