@@ -36,7 +36,8 @@ choco upgrade -y `
     aida64-extreme `
     streamdeck `
     4k-video-downloader `
-    jfrog-cli
+    jfrog-cli `
+    7zip
 
 
 # failing crc
