@@ -33,11 +33,13 @@ choco upgrade -y `
     beyondcompare `
     advanced-renamer `
     vlc `
-    aida64-extreme `
     streamdeck `
     4k-video-downloader `
     jfrog-cli `
-    7zip
+    7zip `
+    quickpar
+
+    # aida64-extreme `
 
 
 # failing crc
