@@ -38,9 +38,10 @@ choco upgrade -y `
     jfrog-cli `
     7zip `
     quickpar `
-    openjdk
+    openjdk `
+    openjdk8
 
-    # aida64-extreme `
+# aida64-extreme `
 
 
 # failing crc
