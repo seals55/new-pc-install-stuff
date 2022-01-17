@@ -37,7 +37,8 @@ choco upgrade -y `
     4k-video-downloader `
     jfrog-cli `
     7zip `
-    quickpar
+    quickpar `
+    openjdk
 
     # aida64-extreme `
 
