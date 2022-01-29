@@ -39,7 +39,8 @@ choco upgrade -y `
     7zip `
     quickpar `
     openjdk `
-    openjdk8
+    openjdk8 `
+    git
 
 # aida64-extreme `
 
