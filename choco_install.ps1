@@ -35,7 +35,6 @@ choco upgrade -y `
     beyondcompare `
     advanced-renamer `
     vlc `
-    streamdeck `
     4k-video-downloader `
     jfrog-cli `
     7zip `
@@ -67,3 +66,4 @@ choco upgrade -y `
 # epicgameslauncher `
 # origin `
 # icue `
+# streamdeck `
