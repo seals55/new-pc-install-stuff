@@ -11,10 +11,6 @@ if (-Not ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdent
 choco upgrade -y `
     notepadplusplus `
     googlechrome `
-    steam-client `
-    goggalaxy `
-    discord `
-    twitch `
     sharex `
     choco-cleaner `
     winrar `
@@ -27,19 +23,15 @@ choco upgrade -y `
     gh `
     gpu-z `
     hwmonitor `
-    obs-studio `
     powershell-core `
     python `
     cinebench `
     hwinfo `
-    epicgameslauncher `
     sysinternals `
     telegram `
     caffeine `
     powertoys `
     firefox `
-    origin `
-    icue `
     beyondcompare `
     advanced-renamer `
     vlc `
@@ -50,7 +42,8 @@ choco upgrade -y `
     quickpar `
     openjdk `
     openjdk8 `
-    git
+    git `
+    msiafterburner
 
 # aida64-extreme `
 
@@ -64,3 +57,13 @@ choco upgrade -y `
 
 # Initial install is fine, but let app upgrade itself.
 # choco install -y vmwareworkstation
+
+
+# steam-client `
+# goggalaxy `
+# discord `
+# twitch `
+# obs-studio `
+# epicgameslauncher `
+# origin `
+# icue `
